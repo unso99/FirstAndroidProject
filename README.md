@@ -9,4 +9,6 @@
 ## Main application use-cases
 
 - Community Mapping: 지도를 만드는 과정에서 지역사회 구성원과 이해관계자들의 관심을 유도하고 이들의 커뮤니티에 대한 계획 및 의사결정에 참여하도록 하는 총제적인 과정을 의미
+- <img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
+- <img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
 
