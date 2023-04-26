@@ -31,7 +31,7 @@
 2023-04-26
 
 - 프로젝트 전체적인 구성 및 계획
-- [] (https://github.com/unso99/FirstAndroidProject/blob/main/MobileProgramming_ProjectProposal_5%ED%8C%80.pdf)
+- [Project Proposal](https://github.com/unso99/FirstAndroidProject/blob/main/MobileProgramming_ProjectProposal_5%ED%8C%80.pdf)
 
 
 
