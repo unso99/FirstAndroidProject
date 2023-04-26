@@ -28,7 +28,7 @@
 - Firebase와 연동
 
 ## Function implementation 🔧
-- 
+- 업데이트 예정
 
 ## Development History 🌳
 
