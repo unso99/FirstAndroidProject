@@ -13,7 +13,8 @@
 커뮤니티 맵핑
 <img width="30%" src="https://user-images.githubusercontent.com/94777814/234574202-e0e01a97-e2e5-436d-a1da-3797d01b19cd.PNG"/>
 
-## Expected Components to be used for our development
+## Expected Components to be used for our development 🔧
+
 지도 서비스 구현 
 - 네이버 Maps API를 활용하여 Map View, 마커기능, 현위치, 목적지에 대한 정보를 RecyclerView를 활용
 
@@ -25,7 +26,10 @@
 
 채팅 기능
 - Firebase와 연동
-- 
+
+## Function implementation
+-
+
 ## Development History 🌳
 
 2023-04-26
