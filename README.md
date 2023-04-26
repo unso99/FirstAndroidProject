@@ -27,7 +27,7 @@
 채팅 기능
 - Firebase와 연동
 
-## Function implementation
+## Function implementation 🔧
 -
 
 ## Development History 🌳
