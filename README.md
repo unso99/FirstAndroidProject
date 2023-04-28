@@ -16,7 +16,7 @@
 ## Expected Components to be used for our development 🔧
 
 지도 서비스 구현 
-- 네이버 Maps API를 활용하여 Map View, 마커기능, 현위치, 목적지에 대한 정보를 RecyclerView를 활용
+- 네이버 Api, 네이버 Maps API를 활용하여 Map View, 마커기능, 현위치, 목적지에 대한 정보를 RecyclerView를 활용
 
 대중교통 도착 정보
 - ODsayLAB API 활용
