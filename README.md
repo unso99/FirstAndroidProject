@@ -33,8 +33,9 @@
  - 라디어그룹버튼을 이용해 원하는 지하철 방향을 가져옴
  - broadcastReceiver와 notificationManager, alarmManager를 활용하여 원하는 지하철 역, 방향에 대해 제일 가까운 시간에 대해 알람 기능 
 
-채팅 기능
+###채팅 기능
 - Firebase와 연동
+- Firebase Storage와 연동
 
 ## Function implementation 🔧
 - Geocoder : 지오코더 함수로 주소를 위경도로 바꿔준다.
