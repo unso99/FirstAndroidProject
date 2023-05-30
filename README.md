@@ -55,22 +55,19 @@
 
 ## 어플 사진 
 - 메인 Activity 및 mapFragment
-<div style="display: flex;">
-  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006196-02d7cc10-b7e5-4496-b839-ed44d168fb97.png" />
-  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
-</div>
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242008893-11c46c97-0b08-4622-9d81-aede21b8006a.png" />
 - 알람 버튼을 눌렀을 때
 <div style="display: flex;">
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242007416-73161962-e883-4b08-a9ec-133eac3ca98b.png" />
 </div>
-- 검색한 장소 마커 위치 버튼을 눌렀을때(사람모양버튼)
-<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006238-8cc7888e-c029-4304-afe9-6c29cefb1c25.png" />
 - searchActivity
 <div style="display: flex;">
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006226-cb7e35b1-5333-4508-8f40-905493f51428.png" />
   <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006231-f3f4701d-e9de-42a1-9b4b-e444e3cd16b9.png" />
 </div>
+- 검색한 장소 마커 위치 버튼을 눌렀을때(사람모양버튼)
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006238-8cc7888e-c029-4304-afe9-6c29cefb1c25.png" />
 - chatFragment
 <div style="display: flex;">
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006263-90a957bb-66e2-4387-a2b9-4810b7cc26d3.png" />
@@ -81,6 +78,8 @@
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006274-7c1eccca-d9a7-4351-82ef-f4fe1c281749.png" />
   <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006301-2f3e88d6-388c-4025-9ac6-0d1d3bfd72b6.png" />
 </div>
+-다른 사람의 채팅
+<img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242009145-f3398a50-46b1-429b-8ffb-2af43508a4e0.png" />
 
 
 
