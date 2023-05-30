@@ -15,21 +15,21 @@
 
 ## Expected Components to be used for our development 🔧
 
-# 지도 서비스 구현 
+### 지도 서비스 구현 
 - naverMap api를 사용해서 mapView를 구성
 - mapView안에 Marker, infowindow, 현재위치기능, cameraposition update를 사용
 
-# 장소 검색 기능
+### 장소 검색 기능
 - webView를 사용 
 - firebase에 다음 도로명주소 api를 적용시킨 html을 hosting하여 webView 페이지를 불러옴
 - broadcastReceiver와 notificationManager, alarmManager를 활용하여 원하는 지하철 역, 방향에 대해 제일 가까운 시간에 대해 알람 기능 
 
-# 지하철역 도착 정보
+### 지하철역 도착 정보
 - Odsay api를 이용
 - api를 통해 json 데이터를 받아와서 retrofitConnection를 이용하여 json 데이터를 원하는 데이터구조로 처리
 - mapView 내의 각 지하철역의 마커의 infoWindow에 가장 가까운 시간 2개의 정보를 가져옴
 
- # 알람 기능
+ ### 알람 기능
  - spinner를 통해 원하는 지하철 역명을 가져옴 
  - 라디어그룹버튼을 이용해 원하는 지하철 방향을 가져옴
 
