@@ -62,7 +62,8 @@
 
 
 ## Development History 🌳
-- [프로젝트 개발 히스토리](https://github.com/unso99/FirstAndroidProject/issues/2) 
+- [프로젝트 개발 히스토리 feat map](https://github.com/unso99/FirstAndroidProject/issues/2) 
+- [프로젝트 개발 히스토리 feat chat](https://github.com/unso99/FirstAndroidProject/issues/5)
 - [Project Proposal](https://github.com/unso99/FirstAndroidProject/blob/main/MobileProgramming_ProjectProposal_5%ED%8C%80.pdf)
 
 
