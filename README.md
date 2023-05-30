@@ -34,7 +34,7 @@
 - broadcastReceiver와 notificationManager, alarmManager를 활용하여 원하는 지하철 역, 방향에 대해 제일 가까운 시간에 대해 알람 기능 
 
 ### 채팅 기능
-- Firebase Authentication을 사용하여 사용자 인증을 처리, signAnonymously()를 활용하여 사용자를 익명으로 등록
+- Firebase Authentication을 사용하여 사용자 인증을 처리, <br>signAnonymously()를 활용하여 사용자를 익명으로 등록
 - Firebase Realtime Database를 사용하여 채팅 메시지를 저장,<br> 메시지를 작성하면 데이터베이스에 저장하고, 변경사항을 실시간으로 감지하여 화면에 업데이트
 - Intent를 사용하여 카메라 어플로 이동
 - Firebase Storage를 사용하여 이미지를 업로드, <br>업로드한 이미지의 URL을 Realtime Database에 저장하여 채팅방에 이미지를 표시
