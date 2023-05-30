@@ -42,6 +42,25 @@
 - setAlarm : AlarmReceiver에 알람을 설정하고 싶은 시간을 넘겨주며 알람을 설정해준다.
 - getPublicTransportationData : odsay api를 활용하여 얻은 지하철역 시간표 데이터를 retrofiConnection과 retrofitApi를 활용하여 DTO에 맞게 가져온 후 원하는 지하철 시간표를 가져오는 함수이다.
 
+## 어플 사진 
+- 메인 Activity 및 mapFragment
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241951029-b4b368a4-9660-4429-900d-af740d4bcedb.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/241951425-9fbbaf23-5cd8-4216-88da-ead1bd079a6a.png" />
+</div>
+- searchActivity
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241951547-09aca064-78f3-4b22-86f0-edd65db6b36a.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/241951772-f89b1177-db90-4071-ae5b-fe9a77a239ce.png" />
+</div>
+- 알람 버튼을 눌렀을 때
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241952037-c5b62fcf-bfce-49c2-bc2e-aca0f0fcb8a5.png" />
+- 검색한 장소 마커 위치 버튼을 눌렀을때(사람모양버튼)
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241952114-c636cc43-b109-4d4a-92f8-3de04b053f0b.png" />
+
+
+
+
 ## Development History 🌳
 - [프로젝트 개발 히스토리](https://github.com/unso99/FirstAndroidProject/issues/2) 
 - [Project Proposal](https://github.com/unso99/FirstAndroidProject/blob/main/MobileProgramming_ProjectProposal_5%ED%8C%80.pdf)
