@@ -35,9 +35,9 @@
 
 ### 채팅 기능
 - Firebase Authentication을 사용하여 사용자 인증을 처리, signAnonymously()를 활용하여 사용자를 익명으로 등록
-- Firebase Realtime Database를 사용하여 채팅 메시지를 저장. 메시지를 작성하면 데이터베이스에 저장하고, 변경사항을 실시간으로 감지하여 화면에 업데이트
+- Firebase Realtime Database를 사용하여 채팅 메시지를 저장,<br> 메시지를 작성하면 데이터베이스에 저장하고, 변경사항을 실시간으로 감지하여 화면에 업데이트
 - Intent를 사용하여 카메라 어플로 이동
-- Firebase Storage를 사용하여 이미지를 업로드하고, 업로드한 이미지의 URL을 Realtime Database에 저장하여 채팅방에 이미지를 표시
+- Firebase Storage를 사용하여 이미지를 업로드, <br>업로드한 이미지의 URL을 Realtime Database에 저장하여 채팅방에 이미지를 표시
 
 ## Function implementation 🔧
 - Geocoder : 지오코더 함수로 주소를 위경도로 바꿔준다.
