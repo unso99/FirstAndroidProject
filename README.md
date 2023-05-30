@@ -22,7 +22,6 @@
 ### 장소 검색 기능
 - webView를 사용 
 - firebase에 다음 도로명주소 api를 적용시킨 html을 hosting하여 webView 페이지를 불러옴
-- broadcastReceiver와 notificationManager, alarmManager를 활용하여 원하는 지하철 역, 방향에 대해 제일 가까운 시간에 대해 알람 기능 
 
 ### 지하철역 도착 정보
 - Odsay api를 이용
@@ -32,6 +31,7 @@
  ### 알람 기능
  - spinner를 통해 원하는 지하철 역명을 가져옴 
  - 라디어그룹버튼을 이용해 원하는 지하철 방향을 가져옴
+ - broadcastReceiver와 notificationManager, alarmManager를 활용하여 원하는 지하철 역, 방향에 대해 제일 가까운 시간에 대해 알람 기능 
 
 채팅 기능
 - Firebase와 연동
