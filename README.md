@@ -55,7 +55,11 @@
 
 ## 어플 사진 
 - 메인 Activity 및 mapFragment
-<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242008893-11c46c97-0b08-4622-9d81-aede21b8006a.png" />
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242008893-11c46c97-0b08-4622-9d81-aede21b8006a.png" />
+</div>
+- 지하철이 없을 때
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242030263-b374a811-935d-4a77-9f07-cc533daa164c.png" />
 - 알람 버튼을 눌렀을 때
 <div style="display: flex;">
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
