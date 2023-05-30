@@ -23,7 +23,7 @@
 - webView를 사용 
 - firebase에 다음 도로명주소 api를 적용시킨 html을 hosting하여 webView 페이지를 불러옴
 
-### 지하철역 도착 정보
+### 실시간 지하철역 도착 정보
 - Odsay api를 이용
 - api를 통해 json 데이터를 받아와서 retrofitConnection를 이용하여 json 데이터를 원하는 데이터구조로 처리
 - mapView 내의 각 지하철역의 마커의 infoWindow에 가장 가까운 시간 2개의 정보를 가져옴
@@ -56,18 +56,33 @@
 ## 어플 사진 
 - 메인 Activity 및 mapFragment
 <div style="display: flex;">
-  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241951029-b4b368a4-9660-4429-900d-af740d4bcedb.png" />
-  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/241951425-9fbbaf23-5cd8-4216-88da-ead1bd079a6a.png" />
-</div>
-- searchActivity
-<div style="display: flex;">
-  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241951547-09aca064-78f3-4b22-86f0-edd65db6b36a.png" />
-  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/241951772-f89b1177-db90-4071-ae5b-fe9a77a239ce.png" />
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006196-02d7cc10-b7e5-4496-b839-ed44d168fb97.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
 </div>
 - 알람 버튼을 눌렀을 때
-<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241952037-c5b62fcf-bfce-49c2-bc2e-aca0f0fcb8a5.png" />
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242007416-73161962-e883-4b08-a9ec-133eac3ca98b.png" />
+</div>
 - 검색한 장소 마커 위치 버튼을 눌렀을때(사람모양버튼)
-<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/241952114-c636cc43-b109-4d4a-92f8-3de04b053f0b.png" />
+<img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006238-8cc7888e-c029-4304-afe9-6c29cefb1c25.png" />
+- searchActivity
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006226-cb7e35b1-5333-4508-8f40-905493f51428.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006231-f3f4701d-e9de-42a1-9b4b-e444e3cd16b9.png" />
+</div>
+- chatFragment
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006263-90a957bb-66e2-4387-a2b9-4810b7cc26d3.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006270-45b82099-8d94-4f3a-8dfb-bdd77c9b6da6.png" />
+</div>
+- 카메라 버튼을 눌렀을 때
+<div style="display: flex;">
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006274-7c1eccca-d9a7-4351-82ef-f4fe1c281749.png" />
+  <img style="width: 20%;" src="https://user-images.githubusercontent.com/94777814/242006301-2f3e88d6-388c-4025-9ac6-0d1d3bfd72b6.png" />
+</div>
+
+
 
 
 
