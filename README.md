@@ -62,7 +62,7 @@
 <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242030263-b374a811-935d-4a77-9f07-cc533daa164c.png" />
 - 알람 버튼을 눌렀을 때
 <div style="display: flex;">
-  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242006211-eed06a26-f4db-42b5-bd12-ad707e33ad35.png" />
+  <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242142240-d0822fa7-d93f-47ed-944e-a0f6ce12f7b0.png" />
   <img style="width: 20%; margin-right: 10px;" src="https://user-images.githubusercontent.com/94777814/242007416-73161962-e883-4b08-a9ec-133eac3ca98b.png" />
 </div>
 - searchActivity
