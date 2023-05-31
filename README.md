@@ -96,6 +96,7 @@
 - [Project Proposal](https://github.com/unso99/FirstAndroidProject/blob/main/MobileProgramming_ProjectProposal_5%ED%8C%80.pdf)
 - [최종 결과물(대중교톡)](https://github.com/unso99/FirstAndroidProject/tree/main/final)
 - [채팅방 데모 영상](https://www.youtube.com/watch?v=78pBkC-KdL8)
+- [map 데모 영상](https://www.youtube.com/watch?v=Qa9RAkx23Gc)
 
 
 
